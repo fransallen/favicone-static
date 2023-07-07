@@ -2,7 +2,9 @@
  <defs>
   <style>.cls-1{fill:#5865f2;}</style>
  </defs>
- <rect width="93.737" height="93.737" fill="#fff" opacity=".95"/>
+ <g fill="none">
+  <rect width="93.737" height="93.737" fill="none" opacity=".95"/>
+ </g>
  <g transform="matrix(.70687 0 0 .70687 1.9322 12.811)" data-name="图层 2">
   <g id="Discord_Logos" data-name="Discord Logos">
    <g id="Discord_Logo_-_Large_-_White" data-name="Discord Logo - Large - White">
